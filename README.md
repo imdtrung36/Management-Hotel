@@ -6,8 +6,8 @@
 ### 📁 Folder Structure
 
 Project_Management_Hotel/
-├── FE/ # Frontend (React)
-└── BE/ # Backend (Laravel)
+|-- FE/ # Frontend (React)
+L-- BE/ # Backend (Laravel)
 
 ---
 
