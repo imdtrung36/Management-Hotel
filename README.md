@@ -3,11 +3,11 @@
 > A full-stack hotel management system with separate **Frontend (React)** and **Backend (Laravel)** directories. Designed for modern hotel operations including room bookings, customer management, and billing.
 
 ---
-## 📁 Folder Structure
+### 📁 Folder Structure
 
 Project_Management_Hotel/
-├── FE/ Frontend (React)
-└── BE/ Backend (Laravel)
+├── FE/ # Frontend (React)
+└── BE/ # Backend (Laravel)
 
 ---
 
