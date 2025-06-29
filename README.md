@@ -14,7 +14,6 @@ Project_Management_Hotel/
 ## 🚀 Technologies Used
 
 ### Frontend (FE):
-- ✅ VueJS
 - ✅ Vue3
 - ✅ Axios
 - ✅ Bootstrap / Tailwind (nếu có)
