@@ -6,7 +6,7 @@
 ### 📁 Folder Structure
 
 Project_Management_Hotel/
-├── FE/ # Frontend (React)
+├── FE/ # Frontend (Vue3)
 └── BE/ # Backend (Laravel)
 
 ---
@@ -14,8 +14,8 @@ Project_Management_Hotel/
 ## 🚀 Technologies Used
 
 ### Frontend (FE):
-- ✅ ReactJS
-- ✅ React Router DOM
+- ✅ VueJS
+- ✅ Vue3
 - ✅ Axios
 - ✅ Bootstrap / Tailwind (nếu có)
 - ✅ State Management (useState, useEffect, Context API...)
