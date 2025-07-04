@@ -16,7 +16,7 @@ Project_Management_Hotel/
 ### Frontend (FE):
 - ✅ Vue3
 - ✅ Axios
-- ✅ Bootstrap / Tailwind (nếu có)
+- ✅ Bootstrap
 - ✅ State Management (useState, useEffect, Context API...)
 
 ### Backend (BE):
